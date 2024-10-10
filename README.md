@@ -17,6 +17,11 @@ This project is a Real Estate Landing Page designed to provide an engaging and u
 2.Interactive Elements: User-friendly forms and animated sections that provide a smooth browsing experience.  
 3.Modern Aesthetic: Clean and visually appealing design, using modern UI/UX practices for real estate platforms.
 
+## Demo
+
+Check out the live demo [here](https://zeiad-haggag.github.io/Real-Estate-Page/).
+
+
 ## Screenshots
 
 ![Screenshot of Page](./img/real%20estate%20full%20page.png)
